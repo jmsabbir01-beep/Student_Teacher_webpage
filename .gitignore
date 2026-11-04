@@ -1,0 +1,7 @@
+node_modules/
+.env
+data/studyvault.db
+data/studyvault.db-*
+uploads/*
+!uploads/.gitkeep
+*.log
